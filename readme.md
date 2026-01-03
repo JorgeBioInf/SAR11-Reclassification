@@ -1,5 +1,5 @@
 # SAR11 reclassification project
-This project leverages from the increased availability of highly-curated genomes from the marine order *Pelagibacterales* to reclassify this ecologically-essential bacterial taxon using genomic-based and gene-flow criteria. 
+This project leverages from the increased availability of highly-curated genomes of the marine order *Pelagibacterales* to reclassify this ecologically-essential bacterial taxon using genomic-based and gene-flow criteria. 
 
 ## How to use 
 
