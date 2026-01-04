@@ -1,0 +1,264 @@
+Accession ID	Isolate ID	Clade	Completeness	Contamination	ANI specie	ConSpeciFix specie	PopCOGenT specie	GTDB genus	GTDB specie	Proposed genus	Proposed specie
+GCA_902555435.1	AG-390-C17	Ia.3.VI	93,2	0	Unk	[1, 2, 3]	117	Pelagibacter	Pelagibacter sp902555435	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1430	Ia.3.VI	97,6	0,5	1	1	13	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1485	Ia.3.VI	100	1,4	1	1	36	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1488	Ia.3.VI	100	1,9	1	1	67	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1490	Ia.3.VI	96,2	0,2	1	1	19	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1491	Ia.3.VI	100	0,2	1	1	19	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1493	Ia.3.VI	100	0	1	1	18	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1494	Ia.3.VI	100	0,9	1	1	15	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1495	Ia.3.VI	100	0,9	1	1	15	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1506	Ia.3.VI	99,5	1,4	1	1	93	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1507	Ia.3.VI	99,5	0,2	1	1	140	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1509	Ia.3.VI	100	1,4	1	1	110	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1513	Ia.3.VI	98,8	2,4	1	1	16	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1518	Ia.3.VI	100	0	1	1	18	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1521	Ia.3.VI	100	0,5	1	1	16	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1526	Ia.3.VI	100	0,5	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1542	Ia.3.VI	100	0	1	1	26	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1552	Ia.3.VI	100	0,5	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1556	Ia.3.VI	100	0,6	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1559	Ia.3.VI	99,5	0,9	1	1	14	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1573	Ia.3.VI	100	0	1	1	179	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1577	Ia.3.VI	99,5	0,5	1	1	0	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1587	Ia.3.VI	99,5	0,9	1	1	14	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1593	Ia.3.VI	100	0	1	1	166	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1597	Ia.3.VI	99,5	0,9	1	1	14	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1602	Ia.3.VI	90,4	1,4	1	1	131	Pelagibacter	Pelagibacter ubique_D	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1611	Ia.3.VI	100	0,5	1	1	13	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1623	Ia.3.VI	99,5	0	16	[1, 2, 3]	9	Pelagibacter	Unk	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1631	Ia.3.VI	99,5	0,5	1	1	0	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1636	Ia.3.VI	100	0,5	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1641	Ia.3.VI	100	0,5	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1662	Ia.3.VI	99,5	0	1	1	0	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1685	Ia.3.VI	100	0	Unk	[1, 2, 3]	118	Pelagibacter	Unk	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1695	Ia.3.VI	100	1	Unk	[1, 2, 3]	183	Pelagibacter	Unk	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1701	Ia.3.VI	99,5	0,5	1	1	34	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1702	Ia.3.VI	100	0,5	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1709	Ia.3.VI	100	0	16	[1, 2, 3]	9	Pelagibacter	Unk	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1710	Ia.3.VI	100	0	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1715	Ia.3.VI	98,1	0	1	1	29	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1723	Ia.3.VI	100	0	1	1	162	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1746	Ia.3.VI	100	0,5	1	1	182	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1748	Ia.3.VI	100	1,9	1	1	12	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1758	Ia.3.VI	100	0,5	1	1	13	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1765	Ia.3.VI	100	0	1	1	48	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1770	Ia.3.VI	100	0	1	1	18	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB1782	Ia.3.VI	100	0,9	1	1	76	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_XXX	HIMB2211	Ia.3.VI	100	0	1	1	41	Pelagibacter	Pelagibacter sp902520475	Ampluspelagibacter	kiloensis
+GCA_003284275.1	AG-313-A04	II	91,9	0	Unk	?	51	Pelagibacter_A	Pelagibacter_A sp003284275	Cosmipelagibacter 	malulaniensis
+GCA_902515705.1	AG-325-E20	II	96,4	0	Unk	?	85	MED727	MED727 sp002689245	Cosmipelagibacter 	malulaniensis
+GCA_902524945.1	AG-337-E15	II	93,4	0	Unk	?	165	Pelagibacter_A	Pelagibacter_A sp902524945	Cosmipelagibacter 	malulaniensis
+GCA_902574035.1	AG-422-L15	II	96,4	0	Unk	?	206	MED727	MED727 sp902574035	Cosmipelagibacter 	malulaniensis
+GCA_902578115.1	AG-426-L15	II	91,6	0	Unk	?	31	GCA-2704625	GCA-2704625 sp902578115	Cosmipelagibacter 	malulaniensis
+GCA_902578935.1	AG-426-O05	II	92,8	0	Unk	?	58	GCA-2704625	GCA-2704625 sp902578935	Cosmipelagibacter 	malulaniensis
+GCA_902581795.1	AG-430-F03	II	94	0	Unk	?	106	GCA-2704625	GCA-2704625 sp902581795	Cosmipelagibacter 	malulaniensis
+GCA_902605035.1	AG-461-E04	II	96,4	0	Unk	?	89	Pelagibacter_A	Pelagibacter_A sp902605035	Cosmipelagibacter 	malulaniensis
+GCA_902615435.1	AG-891-O15	II	91,6	0	Unk	?	124	Pelagibacter_A	Pelagibacter_A sp902615435	Cosmipelagibacter 	malulaniensis
+GCA_902579115.1	AG-911-G13	II	96	0	Unk	?	53	Pelagibacter_A	Pelagibacter_A sp902579115	Cosmipelagibacter 	malulaniensis
+GCA_902585045.1	AG-912-P19	II	92,8	0	Unk	?	100	Pelagibacter_A	Pelagibacter_A sp902585045	Cosmipelagibacter 	malulaniensis
+GCA_902587515.1	AG-913-I14	II	97	0	Unk	?	186	Pelagibacter_A	Pelagibacter_A sp902587515	Cosmipelagibacter 	malulaniensis
+GCA_902590505.1	AG-914-J05	II	94	0	Unk	?	197	Pelagibacter_A	Pelagibacter_A sp902590505	Cosmipelagibacter 	malulaniensis
+GCA_902601705.1	AG-917-F18	II	97,6	0	Unk	?	139	Pelagibacter_A	Pelagibacter_A sp902601705	Cosmipelagibacter 	malulaniensis
+GCA_902609855.1	AG-917-K20	II	90,4	0	Unk	?	72	Pelagibacter_A	Pelagibacter_A sp902609855	Cosmipelagibacter 	malulaniensis
+GCA_902613545.1	AG-918-M15	II	92,2	0	Unk	?	123	Pelagibacter_A	Pelagibacter_A sp902613545	Cosmipelagibacter 	malulaniensis
+GCA_902613915.1	AG-918-N23	II	97,2	0	Unk	?	125	Pelagibacter_A	Pelagibacter_A sp902613915	Cosmipelagibacter 	malulaniensis
+GCA_902615715.1	AG-919-F21	II	92,8	0	Unk	?	96	Pelagibacter_A	Pelagibacter_A sp902615715	Cosmipelagibacter 	malulaniensis
+GCA_902616145.1	AG-919-I13	II	95,2	0	Unk	?	147	Pelagibacter_A	Pelagibacter_A sp902616145	Cosmipelagibacter 	malulaniensis
+GCA_902617025.1	AG-919-M05	II	92,8	0	Unk	?	199	Pelagibacter_A	Pelagibacter_A sp902617025	Cosmipelagibacter 	malulaniensis
+GCA_902620525.1	AG-920-L07	II	97,6	0	Unk	?	56	MED727	MED727 sp902620525	Cosmipelagibacter 	malulaniensis
+GCA_902620585.1	AG-920-L18	II	90	0	Unk	?	77	Pelagibacter_A	Pelagibacter_A sp902620585	Cosmipelagibacter 	malulaniensis
+GCA_902624195.1	AH-287-E19	II	91,6	0	Unk	?	87	Pelagibacter_A	Pelagibacter_A sp902624195	Cosmipelagibacter 	malulaniensis
+GCF_000419545.1	HIMB058	II	98,8	0	Unk	?	146	Pelagibacter_A	Pelagibacter_A ubique_B	Cosmipelagibacter 	malulaniensis
+GCA_902515095.1	AG-325-C18	nan	91,9	0	Unk	?	70	Pelagibacter	Pelagibacter sp902515095	Unk	Unk
+GCA_902515985.1	AG-325-G21	nan	92,9	0	Unk	?	32	Pelagibacter	Pelagibacter sp902515985	Unk	Unk
+GCA_902543375.1	AG-359-P18	nan	91,1	0	Unk	?	109	Pelagibacter	Pelagibacter sp902543375	Unk	Unk
+GCA_003278065.1	AG-390-O04	nan	92	0	Unk	?	148	Pelagibacter	Pelagibacter sp003278065	Unk	Unk
+GCA_902566365.1	AG-410-L19	nan	96	0	Unk	?	63	Pelagibacter	Pelagibacter sp902566365	Unk	Unk
+GCA_902569405.1	AG-414-L04	nan	98,8	0	Unk	?	145	Pelagibacter	Pelagibacter sp902569405	Unk	Unk
+GCA_902574695.1	AG-422-N15	nan	91,6	0	Unk	?	60	Pelagibacter	Pelagibacter sp902574695	Unk	Unk
+GCA_902577525.1	AG-426-I10	nan	90,7	0	Unk	?	143	Pelagibacter	Pelagibacter sp902577525	Unk	Unk
+GCA_902578775.1	AG-426-P08	nan	94,5	0	Unk	?	122	Pelagibacter	Pelagibacter sp902578775	Unk	Unk
+GCA_902579105.1	AG-430-A11	nan	90,8	0	Unk	?	43	Pelagibacter	Pelagibacter sp902579105	Unk	Unk
+GCA_902579985.1	AG-430-B09	nan	96,2	0,9	Unk	?	198	Pelagibacter	Pelagibacter sp902579985	Unk	Unk
+GCA_902588965.1	AG-439-C18	nan	94	0	Unk	?	152	Pelagibacter	Pelagibacter sp902588965	Unk	Unk
+GCA_902594235.1	AG-447-K09	nan	91,7	0	Unk	?	191	Pelagibacter	Pelagibacter sp902594235	Unk	Unk
+GCA_902594915.1	AG-447-L14	nan	90,9	0,5	Unk	?	57	Pelagibacter	Pelagibacter sp902594915	Unk	Unk
+GCA_902595125.1	AG-447-N08	nan	94	0	Unk	?	90	Pelagibacter	Pelagibacter sp902595125	Unk	Unk
+GCA_902616645.1	AG-892-C18	nan	90,5	0	Unk	?	44	Pelagibacter	Pelagibacter sp902616645	Unk	Unk
+GCA_902526645.1	AG-896-C18	nan	92,7	0,9	Unk	?	121	Pelagibacter	Pelagibacter sp902526645	Unk	Unk
+GCA_902558435.1	AG-905-E11	nan	92,8	0	Unk	?	91	Pelagibacter	Pelagibacter sp902558435	Unk	Unk
+GCA_902591025.1	AG-914-L04	nan	92,7	0,5	Unk	?	163	Pelagibacter	Pelagibacter sp902591025	Unk	Unk
+GCA_902629575.1	AH-324-K07	nan	90,1	0	Unk	?	115	Pelagibacter	Pelagibacter sp902629575	Unk	Unk
+GCA_XXX	HIMB2104	nan	100	0	3	3	158	Pelagibacter	Pelagibacter sp902520215	Unk	Unk
+GCA_014654455.1	SAG-MED01	nan	93	0	Unk	?	103	Pelagibacter	Pelagibacter sp014654455	Unk	Unk
+GCA_014654165.1	SAG-MED13	nan	90	0,3	Unk	?	38	Pelagibacter	Pelagibacter sp014654165	Unk	Unk
+GCA_014654065.1	SAG-MED15	nan	91,6	0	Unk	?	126	Pelagibacter	Pelagibacter sp014654065	Unk	Unk
+GCA_902557155.1	AG-390-G23	Ia.3.V	92,9	0,2	Unk	[2, 3]	133	Pelagibacter	Pelagibacter sp902557155	Xanthipelagibacter	moananuiensis
+GCA_902558835.1	AG-390-M14	Ia.3.V	90	0	Unk	[2, 3]	129	Pelagibacter	Pelagibacter sp902558835	Xanthipelagibacter	moananuiensis
+GCA_902566705.1	AG-410-O02	Ia.3.V	90,6	0	Unk	[2, 3]	88	Pelagibacter	Pelagibacter sp902566705	Xanthipelagibacter	moananuiensis
+GCA_902571425.1	AG-422-C20	Ia.3.V	94,3	0	Unk	[2, 3]	193	Pelagibacter	Pelagibacter sp902571425	Xanthipelagibacter	moananuiensis
+GCA_003213615.1	AG-422-D23	Ia.3.V	90,3	0	Unk	[2, 3]	80	Pelagibacter	Pelagibacter sp003213615	Xanthipelagibacter	moananuiensis
+GCA_902592375.1	AG-447-C08	Ia.3.V	95,5	0,5	Unk	[2, 3]	130	Pelagibacter	Pelagibacter sp902592375	Xanthipelagibacter	moananuiensis
+GCA_902613755.1	AG-891-I18	Ia.3.V	97,6	0	Unk	[2, 3]	156	Pelagibacter	Pelagibacter sp902613755	Xanthipelagibacter	moananuiensis
+GCA_902615975.1	AG-892-A22	Ia.3.V	91,7	0	Unk	[2, 3]	52	Pelagibacter	Pelagibacter sp902615975	Xanthipelagibacter	moananuiensis
+GCA_902523515.1	AG-895-F17	Ia.3.V	93,4	0	Unk	[2, 3]	98	Pelagibacter	Pelagibacter sp902523515	Xanthipelagibacter	moananuiensis
+GCA_902587755.1	AG-913-L03	Ia.3.V	96,2	0	Unk	[2, 3]	94	Pelagibacter	Pelagibacter sp902587755	Xanthipelagibacter	moananuiensis
+GCA_902589725.1	AG-914-B14	Ia.3.V	90	0	Unk	[2, 3]	30	Pelagibacter	Pelagibacter sp902589725	Xanthipelagibacter	moananuiensis
+GCA_902599335.1	AG-916-N14	Ia.3.V	93	0,5	Unk	[2, 3]	149	Pelagibacter	Pelagibacter sp902599335	Xanthipelagibacter	moananuiensis
+GCA_902618695.1	AG-920-D05	Ia.3.V	96,7	0,2	Unk	[2, 3]	75	Pelagibacter	Pelagibacter sp902618695	Xanthipelagibacter	moananuiensis
+GCA_902628965.1	AH-324-F03	Ia.3.V	93,4	0	Unk	[2, 3]	49	Pelagibacter	Pelagibacter sp902628965	Xanthipelagibacter	moananuiensis
+GCA_902629935.1	AH-324-N03	Ia.3.V	93,4	0,3	Unk	[2, 3]	178	Pelagibacter	Pelagibacter sp902629935	Xanthipelagibacter	moananuiensis
+GCF_007833635.1	FZCC0015	Ia.3.V	100	0	Unk	[2, 3]	59	Pelagibacter	Pelagibacter sp007833635	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB1409	Ia.3.V	100	0	Unk	[2, 3]	37	Pelagibacter	Unk	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB1413	Ia.3.V	100	0	Unk	[2, 3]	33	Pelagibacter	Pelagibacter ubique_O	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB1444	Ia.3.V	99,8	0,6	Unk	[2, 3]	177	Pelagibacter	Unk	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB1456	Ia.3.V	99,1	0	Unk	[2, 3]	97	Pelagibacter	Unk	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB2201	Ia.3.V	99,8	0	Unk	[2, 3]	112	Pelagibacter	Unk	Xanthipelagibacter	moananuiensis
+GCA_XXX	HIMB2250	Ia.3.V	99,5	0	Unk	[2, 3]	153	Pelagibacter	Unk	Xanthipelagibacter	moananuiensis
+GCA_902616245.1	AG-892-B11	Ib.1.III	95,3	0	6	?	7	Pelagibacter	Pelagibacter sp902616245	Copiapelagibacter	splendidus
+GCA_902617415.1	AG-892-F15	Ib.1.III	98,8	0	7	?	3	Pelagibacter	Pelagibacter sp902617415	Copiapelagibacter	splendidus
+GCA_902618205.1	AG-892-J03	Ib.1.III	95,2	0	Unk	?	45	Pelagibacter	Pelagibacter sp902618205	Copiapelagibacter	splendidus
+GCA_902622245.1	AG-893-J08	Ib.1.III	96,4	0	Unk	?	210	Pelagibacter	Pelagibacter sp902622245	Copiapelagibacter	splendidus
+GCA_902518165.1	AG-894-B06	Ib.1.III	95,2	0	Unk	?	35	Pelagibacter	Pelagibacter sp902518165	Copiapelagibacter	splendidus
+GCA_902519015.1	AG-894-E10	Ib.1.III	90,4	0,6	6	?	7	Pelagibacter	Pelagibacter sp902616245	Copiapelagibacter	splendidus
+GCA_902519165.1	AG-894-F15	Ib.1.III	90,4	0	7	?	155	Pelagibacter	Pelagibacter sp902527605	Copiapelagibacter	splendidus
+GCA_902531175.1	AG-897-G09	Ib.1.III	96,4	0	Unk	?	208	Pelagibacter	Pelagibacter sp902531175	Copiapelagibacter	splendidus
+GCA_902532525.1	AG-897-O16	Ib.1.III	90,4	0	Unk	?	3	Pelagibacter	Pelagibacter sp902532525	Copiapelagibacter	splendidus
+GCA_902543295.1	AG-900-G16	Ib.1.III	94,8	0	Unk	?	3	Pelagibacter	Pelagibacter sp902543295	Copiapelagibacter	splendidus
+GCA_902543485.1	AG-900-I13	Ib.1.III	98,8	0	Unk	?	209	Pelagibacter	Pelagibacter sp902543485	Copiapelagibacter	splendidus
+GCA_902543575.1	AG-900-I19	Ib.1.III	96,3	0	Unk	?	189	Pelagibacter	Pelagibacter sp902543575	Copiapelagibacter	splendidus
+GCA_902570695.1	AG-909-F14	Ib.1.III	97,6	0	17	?	1	Pelagibacter	Pelagibacter sp902570695	Copiapelagibacter	splendidus
+GCA_902633865.1	AG-912-I02	Ib.1.III	92,8	0,2	17	?	1	Pelagibacter	Pelagibacter sp902570695	Copiapelagibacter	splendidus
+GCA_902596975.1	AG-916-E19	Ib.1.III	90,1	0,1	Unk	?	105	Pelagibacter	Pelagibacter sp902596975	Copiapelagibacter	splendidus
+GCA_902601055.1	AG-917-D14	Ib.1.III	96,4	0	6	?	120	Pelagibacter	Pelagibacter sp902616245	Copiapelagibacter	splendidus
+GCA_902611845.1	AG-918-E02	Ib.1.III	92,2	0	Unk	?	69	Pelagibacter	Pelagibacter sp902611845	Copiapelagibacter	splendidus
+GCA_902612605.1	AG-918-G22	Ib.1.III	97,5	0	Unk	?	185	Pelagibacter	Pelagibacter sp902612605	Copiapelagibacter	splendidus
+GCA_902613065.1	AG-918-K13	Ib.1.III	91,2	0	Unk	?	142	Pelagibacter	Pelagibacter sp902613065	Copiapelagibacter	splendidus
+GCA_001704065.1	GOM-A1-r2	Ib.1.III	94	1,2	7	?	211	Pelagibacter	Pelagibacter sp001704065	Copiapelagibacter	splendidus
+GCA_003212275.1	AG-447-N18	Ia.4.II	92,9	0	Unk	[2, 3]	66	Pelagibacter	Pelagibacter sp003212275	Lacunapelagibacter	akoakoaensis
+GCA_902612065.1	AG-891-C15	Ia.4.II	94,8	0	3	3	184	Pelagibacter	Pelagibacter sp902612065	Lacunapelagibacter	akoakoaensis
+GCA_902518155.1	AG-894-B07	Ia.4.II	94,5	0,5	Unk	[2, 3]	132	Pelagibacter	Pelagibacter sp902518155	Lacunapelagibacter	akoakoaensis
+GCA_902528545.1	AG-896-K10	Ia.4.II	91,7	0	3	3	168	Pelagibacter	Pelagibacter sp902528545	Lacunapelagibacter	akoakoaensis
+GCA_902609685.1	AG-917-K06	Ia.4.II	98,7	0	3	3	136	Pelagibacter	Pelagibacter sp902609685	Lacunapelagibacter	akoakoaensis
+GCA_902612325.1	AG-918-G06	Ia.4.II	96,5	1,4	3	3	4	Pelagibacter	Pelagibacter sp902612325	Lacunapelagibacter	akoakoaensis
+GCA_902614665.1	AG-919-C02	Ia.4.II	90,7	0	3	3	4	Pelagibacter	Pelagibacter sp902598265	Lacunapelagibacter	akoakoaensis
+GCA_902616725.1	AG-919-L02	Ia.4.II	94	0	3	3	4	Pelagibacter	Pelagibacter sp902616725	Lacunapelagibacter	akoakoaensis
+GCA_902616875.1	AG-919-L14	Ia.4.II	90,5	0	3	3	205	Pelagibacter	Pelagibacter sp902616875	Lacunapelagibacter	akoakoaensis
+GCA_902624315.1	AH-287-G05	Ia.4.II	91,8	0	Unk	[2, 3]	81	Pelagibacter	Pelagibacter sp902624315	Lacunapelagibacter	akoakoaensis
+GCA_902626645.1	AH-321-D17	Ia.4.II	92,4	0	Unk	[2, 3]	119	Pelagibacter	Pelagibacter sp902626645	Lacunapelagibacter	akoakoaensis
+GCA_902627805.1	AH-321-M13	Ia.4.II	93,8	0	Unk	[2, 3]	23	Pelagibacter	Pelagibacter sp902627805	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB1402	Ia.4.II	99,5	0	3	3	128	Pelagibacter	Pelagibacter sp902528545	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB1437	Ia.4.II	99,5	0	Unk	[2, 3]	134	Pelagibacter	Pelagibacter sp902580835	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB1835	Ia.4.II	94,6	0,2	3	3	47	Pelagibacter	Unk	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB1838	Ia.4.II	99,1	0	3	3	114	Pelagibacter	Unk	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB1863	Ia.4.II	100	3,3	3	3	159	Pelagibacter	Pelagibacter sp902611635	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB2200	Ia.4.II	100	0,5	3	3	144	Pelagibacter	Pelagibacter sp902541515	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB2204	Ia.4.II	99,5	0	3	3	83	Pelagibacter	Pelagibacter sp902598265	Lacunapelagibacter	akoakoaensis
+GCA_XXX	HIMB2215	Ia.4.II	98,1	0	3	3	127	Pelagibacter	Pelagibacter sp003213155	Lacunapelagibacter	akoakoaensis
+GCA_902540045.1	AG-359-C09	Ia.3.VII	91,8	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902542915.1	AG-359-M21	Ia.3.VII	92,9	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_003214455.1	AG-414-O11	Ia.3.VII	90	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_003209915.1	AG-430-E20	Ia.3.VII	90,6	0	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_902613855.1	AG-891-J07	Ia.3.VII	97,6	0	Unk	[2, 3]	113	Pelagibacter	Pelagibacter sp902613855	Angustipelagibacter	atlanticus 
+GCA_902518455.1	AG-894-C14	Ia.3.VII	99,4	0,5	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_902539165.1	AG-899-J02	Ia.3.VII	91	0,5	Unk	[2, 3]	86	Pelagibacter	Pelagibacter sp902539165	Angustipelagibacter	atlanticus 
+GCA_902554715.1	AG-904-F17	Ia.3.VII	95,4	0,5	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902583135.1	AG-912-F16	Ia.3.VII	90,3	0	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_902585705.1	AG-913-C03	Ia.3.VII	95,3	0,5	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902590915.1	AG-914-G22	Ia.3.VII	91,9	0,5	Unk	[2, 3]	212	Pelagibacter	Pelagibacter sp902590915	Angustipelagibacter	atlanticus 
+GCA_902594635.1	AG-915-K13	Ia.3.VII	95	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902599515.1	AG-916-M15	Ia.3.VII	90	0,5	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_902600795.1	AG-917-C08	Ia.3.VII	93,4	0	2	2	10	Pelagibacter	Pelagibacter sp902619815	Angustipelagibacter	atlanticus 
+GCA_902610355.1	AG-917-M22	Ia.3.VII	90,5	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902633195.1	AG-917-P07	Ia.3.VII	91	0	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902612995.1	AG-918-K09	Ia.3.VII	97,4	0,5	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_902613205.1	AG-918-L07	Ia.3.VII	91,3	0,7	2	2	10	Pelagibacter	Pelagibacter sp902594635	Angustipelagibacter	atlanticus 
+GCA_902613405.1	AG-918-L21	Ia.3.VII	91,4	0,5	2	2	10	Pelagibacter	Pelagibacter sp003209915	Angustipelagibacter	atlanticus 
+GCA_014653985.1	SAG-MED22	Ia.3.VII	98,6	0,5	Unk	[2, 3]	22	Pelagibacter	Pelagibacter sp014653985	Angustipelagibacter	atlanticus 
+GCA_902576375.1	AG-426-D09	Ia.4.N5	91,6	0,5	Unk	3	176	Pelagibacter	Pelagibacter sp902576375	Tantilluspelagibacter	rubimaris
+GCA_902593845.1	AG-447-F10	Ia.4.N5	90,8	0	Unk	3	42	Pelagibacter	Pelagibacter sp902593845	Tantilluspelagibacter	rubimaris
+GCA_902596925.1	AG-447-P22	Ia.4.N5	93,3	0	Unk	3	21	Pelagibacter	Pelagibacter sp902596925	Tantilluspelagibacter	rubimaris
+GCA_902531765.1	AG-897-G15	Ia.4.N5	90,7	0	Unk	3	180	Pelagibacter	Pelagibacter sp902531765	Tantilluspelagibacter	rubimaris
+GCA_902539445.1	AG-899-J23	Ia.4.N5	93,5	0,5	Unk	3	54	Pelagibacter	Pelagibacter sp902539445	Tantilluspelagibacter	rubimaris
+GCA_902571015.1	AG-909-G08	Ia.4.N5	91,9	0,5	Unk	3	78	Pelagibacter	Pelagibacter sp902571015	Tantilluspelagibacter	rubimaris
+GCA_902573465.1	AG-910-B05	Ia.4.N5	93,2	0	Unk	3	161	Pelagibacter	Pelagibacter sp902573465	Tantilluspelagibacter	rubimaris
+GCA_902596515.1	AG-916-A16	Ia.4.N5	93,8	0	Unk	3	175	Pelagibacter	Pelagibacter sp902596515	Tantilluspelagibacter	rubimaris
+GCA_902617625.1	AG-919-O02	Ia.4.N5	90,5	0,2	Unk	3	84	Pelagibacter	Pelagibacter sp902617625	Tantilluspelagibacter	rubimaris
+GCA_XXX	HIMB1436	Ia.4.N5	100	0,5	Unk	3	160	Pelagibacter	Pelagibacter sp902577125	Tantilluspelagibacter	rubimaris
+GCA_XXX	HIMB2187	Ia.4.N5	100	0	Unk	3	108	Pelagibacter	Pelagibacter sp902554195	Tantilluspelagibacter	rubimaris
+GCA_XXX	HIMB2226	Ia.4.N5	100	0	Unk	3	196	Pelagibacter	Unk	Tantilluspelagibacter	rubimaris
+GCF_002101315.1	RS39	Ia.4.N5	100	0	Unk	3	173	Pelagibacter	Pelagibacter sp002101315	Tantilluspelagibacter	rubimaris
+GCA_902524955.1	AG-895-L23	III	94	0	Unk	?	190	HIMB114	HIMB114 sp902524955	Unk	Unk
+GCA_XXX	HIMB109	III	90,5	0,1	4	?	65	HIMB114	Unk	Unk	Unk
+GCF_000163555.2	HIMB114	III	98,8	0	4	?	171	HIMB114	HIMB114 sp000163555	Unk	Unk
+GCA_XXX	HIMB1517	III	100	0,5	4	?	157	HIMB114	Unk	Unk	Unk
+GCA_XXX	HIMB1565	III	97,6	0	4	?	167	HIMB114	HIMB114 sp000163555	Unk	Unk
+GCF_000195085.1	IMCC9063	III	98,8	0	Unk	?	55	IMCC9063	IMCC9063 sp000195085	Unk	Unk
+GCF_002688585.1	LSUCC0530	III	100	0	Unk	?	192	Fonsibacter	Fonsibacter ubiquis	Unk	Unk
+GCA_902525625.1	AG-337-G11	Ia.4.N8	92,2	0	Unk	3	203	Pelagibacter	Pelagibacter sp902525625	Unk	Unk
+GCA_902618485.1	AG-892-K05	Ia.4.N8	96	0	Unk	3	207	Pelagibacter	Pelagibacter sp902618485	Unk	Unk
+GCA_902621345.1	AG-893-F11	Ia.4.N8	100	0,5	Unk	3	141	Pelagibacter	Pelagibacter sp902621345	Unk	Unk
+GCA_902520675.1	AG-894-L13	Ia.4.N8	94,1	0	13	3	2	Pelagibacter	Pelagibacter sp902524345	Unk	Unk
+GCA_902524345.1	AG-895-J19	Ia.4.N8	94,8	0	13	3	2	Pelagibacter	Pelagibacter sp902524345	Unk	Unk
+GCA_902544135.1	AG-900-K21	Ia.4.N8	95,5	0	Unk	3	195	Pelagibacter	Pelagibacter sp902544135	Unk	Unk
+GCA_XXX	HIMB1412	Ia.3.II	100	0	Unk	[2, 3]	164	Pelagibacter	Unk	Coralipelagibacter	heeiaensis
+GCA_XXX	HIMB1420	Ia.3.II	100	0	Unk	[2, 3]	39	Pelagibacter	Unk	Coralipelagibacter	heeiaensis
+GCA_XXX	HIMB1427	Ia.3.II	100	4,3	Unk	[2, 3]	201	Pelagibacter	Unk	Coralipelagibacter	heeiaensis
+GCA_XXX	HIMB1520	Ia.3.II	100	0	Unk	[2, 3]	74	Pelagibacter	Pelagibacter sp000299095	Coralipelagibacter	heeiaensis
+GCA_XXX	HIMB1564	Ia.3.II	100	0	Unk	[2, 3]	202	Pelagibacter	Unk	Coralipelagibacter	heeiaensis
+GCF_000299095.1	HIMB5	Ia.3.II	100	0,5	Unk	[2, 3]	204	Pelagibacter	Pelagibacter sp000299095	Coralipelagibacter	heeiaensis
+GCA_902606115.1	AG-461-M18	Ib.4.N8	91,1	0	Unk	2	62	Pelagibacter	Pelagibacter sp902606115	Mediuspelagibacter	bermudensis
+GCA_902622545.1	AG-893-K09	Ib.4.N8	98,4	0	11	2	20	Pelagibacter	Pelagibacter sp902622545	Mediuspelagibacter	bermudensis
+GCA_902547585.1	AG-901-I21	Ib.4.N8	90	0	11	2	20	Pelagibacter	Pelagibacter sp902622545	Mediuspelagibacter	bermudensis
+GCA_902600485.1	AG-917-B07	Ib.4.N8	93,6	0	14	2	101	Pelagibacter	Pelagibacter sp902600485	Mediuspelagibacter	bermudensis
+GCA_902620685.1	AG-920-L19	Ib.4.N8	92,4	0	14	2	111	Pelagibacter	Pelagibacter sp902585365	Mediuspelagibacter	bermudensis
+GCA_902577075.1	AG-426-F15	Ib.2.N7	91,6	0	Unk	?	82	Pelagibacter	Pelagibacter sp902577075	Unk	Unk
+GCA_902551985.1	AG-903-L07	Ib.2.N7	95,2	0	Unk	?	6	Pelagibacter	Pelagibacter sp902551985	Unk	Unk
+GCA_902560585.1	AG-905-O08	Ib.2.N7	90,4	0	12	?	6	Pelagibacter	Pelagibacter sp902560585	Unk	Unk
+GCA_902594675.1	AG-915-G13	Ib.2.N7	90,4	0	Unk	?	151	Pelagibacter	Pelagibacter sp902594675	Unk	Unk
+GCA_902597335.1	AG-916-G09	Ib.2.N7	90,4	0	12	?	6	Pelagibacter	Pelagibacter sp902597335	Unk	Unk
+GCA_003282205.1	AG-337-G04	Ib.2.I	94	0	Unk	2	102	Pelagibacter	Pelagibacter sp003282205	Stellipelagibacter	aequor, aequorensis 
+GCA_902605865.1	AG-461-L09	Ib.2.I	92,8	0	Unk	2	170	Pelagibacter	Pelagibacter sp902605865	Stellipelagibacter	aequor, aequorensis 
+GCA_902622785.1	AG-893-L07	Ib.2.I	92,2	0	10	2	17	Pelagibacter	Pelagibacter sp902555585	Stellipelagibacter	aequor, aequorensis 
+GCA_902555585.1	AG-904-K03	Ib.2.I	97,6	0	10	2	17	Pelagibacter	Pelagibacter sp902555585	Stellipelagibacter	aequor, aequorensis 
+GCA_902583075.1	AG-912-G22	Ib.2.I	98,8	0	Unk	2	194	Pelagibacter	Pelagibacter sp902583075	Stellipelagibacter	aequor, aequorensis 
+GCA_902601315.1	AG-917-E05	Ib.1	90,4	0	Unk	2	50	Pelagibacter	Pelagibacter sp902601315	Superopelagibacter	microceni
+GCA_902612405.1	AG-918-G15	Ib.1	92,8	0	15	2	46	Pelagibacter	Pelagibacter sp902574735	Superopelagibacter	microceni
+GCA_902625715.1	AH-287-O09	Ib.1	91,6	0	Unk	2	27	Pelagibacter	Pelagibacter sp902625715	Superopelagibacter	microceni
+GCA_XXX	HIMB2305	Ib.1	100	0	Unk	2	200	Pelagibacter	Pelagibacter sp902614125	Superopelagibacter	microceni
+GCF_002101295.1	RS40	Ib.1	100	0	15	2	71	Pelagibacter	Pelagibacter sp002101295	Superopelagibacter	microceni
+GCF_000472585.1	HTCC1013	Ia.1.I	100	0,5	8	?	5	Pelagibacter	Pelagibacter ubique	Pelagibacter	ubiquis
+GCF_000384455.1	HTCC1040	Ia.1.I	100	0,5	8	?	5	Pelagibacter	Pelagibacter ubique	Pelagibacter	ubiquis
+GCF_000012345.1	HTCC1062	Ia.1.I	100	0,5	8	?	5	Pelagibacter	Pelagibacter ubique	Pelagibacter	ubiquis
+GCF_012932795.1	HTCC9565	Ia.1.I	99,1	0	Unk	?	24	Pelagibacter	Pelagibacter ubique_S	Pelagibacter	ubiquis
+GCF_900177485.1	HIMB1321	Ia.3.III	100	1	5	3	40	Pelagibacter	Pelagibacter sp900177485	Littoralipelagibacter	koolauensis 
+GCA_XXX	HIMB1505	Ia.3.III	100	1,4	5	3	8	Pelagibacter	Pelagibacter sp900177485	Littoralipelagibacter	koolauensis 
+GCA_XXX	HIMB1527	Ia.3.III	99,3	1	5	3	8	Pelagibacter	Unk	Littoralipelagibacter	koolauensis 
+GCA_XXX	HIMB1549	Ia.3.III	99,5	0,7	5	3	8	Pelagibacter	Pelagibacter sp900177485	Littoralipelagibacter	koolauensis 
+GCA_902524535.1	AG-895-K10	Ia.4.N6	93,3	0	Unk	3	61	Pelagibacter	Pelagibacter sp902524535	Colligopelagibacter	wilhelmi
+GCA_902540235.1	AG-899-M07	Ia.4.N6	93,1	0,3	Unk	3	92	Pelagibacter	Pelagibacter sp902540235	Colligopelagibacter	wilhelmi
+GCA_902557215.1	AG-905-A07	Ia.4.N6	91,9	0	Unk	3	172	Pelagibacter	Pelagibacter sp902557215	Colligopelagibacter	wilhelmi
+GCA_902615445.1	AG-919-F03	Ia.4.N6	92,4	0	Unk	3	138	Pelagibacter	Pelagibacter sp902615445	Colligopelagibacter	wilhelmi
+GCA_003213015.1	AG-430-F16	Ib.4.N9	97	0	Unk	2	28	Pelagibacter	Pelagibacter sp003213015	Amplipelagibacter	globalis 
+GCA_902551755.1	AG-903-K07	Ib.4.N9	90,4	0	Unk	2	25	Pelagibacter	Pelagibacter sp902551755	Amplipelagibacter	globalis 
+GCA_902562205.1	AG-907-E04	Ib.4.N9	92	0	Unk	2	181	Pelagibacter	Pelagibacter sp902562205	Amplipelagibacter	globalis 
+GCA_902599625.1	AG-916-O13	Ib.4.N9	90,4	0	Unk	2	107	Pelagibacter	Pelagibacter sp902599625	Amplipelagibacter	globalis 
+GCA_902622905.1	AG-893-L13	Ib.N10	92,9	1,2	9	?	11	Pelagibacter	Pelagibacter sp902560075	Fususpelagibacter	tranquillus
+GCA_902560075.1	AG-905-M05	Ib.N10	96,4	0	9	?	11	Pelagibacter	Pelagibacter sp902560075	Fususpelagibacter	tranquillus
+GCA_902601715.1	AG-917-F16	Ib.N10	92,8	0	9	?	79	Pelagibacter	Pelagibacter sp902596325	Fususpelagibacter	tranquillus
+GCA_902536765.1	AG-349-I05	Ib.N11	90,4	0	Unk	2	95	Pelagibacter	Pelagibacter sp902536765	Rubeuspelagibacter	caeruleus
+GCA_902581445.1	AG-911-K15	Ib.N11	93,9	0	Unk	2	135	Pelagibacter	Pelagibacter sp902581445	Rubeuspelagibacter	caeruleus
+GCA_902580275.1	AG-911-N14	Ib.N11	90	0	Unk	2	188	Pelagibacter	Pelagibacter sp902580275	Rubeuspelagibacter	caeruleus
+GCA_902555725.1	AG-390-D15	Ia.4.N2	97,6	0	Unk	3	73	Pelagibacter	Pelagibacter sp902555725	Pantolocipelagibacter	undulans
+GCA_902597885.1	AG-916-G19	Ia.4.N2	95,7	0	Unk	3	64	Pelagibacter	Pelagibacter sp003281725	Pantolocipelagibacter	undulans
+GCA_014654265.1	SAG-MED11	Ia.4.N2	93,5	0,5	Unk	3	150	Pelagibacter	Pelagibacter sp014654265	Pantolocipelagibacter	undulans
+GCA_902595535.1	AG-447-M05	Ia.3.I	96,5	0,7	Unk	3	174	Pelagibacter	Pelagibacter sp902595535	Atlantikopelagibacter	sargasii
+GCF_000155895.1	HTCC7211	Ia.3.I	100	0,5	Unk	3	116	Pelagibacter	Pelagibacter sp000155895	Atlantikopelagibacter	sargasii
+GCA_902540275.1	AG-359-D09	Ia.4.N4	91,9	0	Unk	[2, 3]	137	Pelagibacter	Pelagibacter sp902540275	Punctumpelagibacter	variabilis 
+GCA_902628195.1	AH-321-P04	Ia.4.N4	92,2	0	Unk	[2, 3]	104	Pelagibacter	Pelagibacter sp902628195	Punctumpelagibacter	variabilis 
+GCA_003279685.1	AG-390-L03	Ia.3.IV	94,3	0	Unk	[2, 3]	187	Pelagibacter	Pelagibacter sp003279685	Proprepelagibacter	yaquinaensis, yaconaensis 
+GCF_000472605.1	HTCC8051	Ia.3.IV	99,8	0	Unk	[2, 3]	169	Pelagibacter	Pelagibacter ubique_L	Proprepelagibacter	yaquinaensis, yaconaensis 
+GCA_XXX	HIMB1483	Ia.4.N1	99,5	0,5	Unk	3	68	Pelagibacter	Unk	Semelpelagibacter	kaneoheensis
+GCA_000504625.1	AAA240-E13	Ic	93,8	1,2	Unk	2	154	AAA240-E13	AAA240-E13 sp000504625	Mesopelagibacter	carboxydoxivorans
+GCA_003210095.1	AG-426-E17	Ib.4.1	100	0,1	Unk	2	99	Pelagibacter	Pelagibacter sp003210095	Unk	Unk
