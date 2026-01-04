@@ -1,0 +1,28 @@
+Clade	ANI specie	PopCOGenT specie	ConSpeciFix specie	GTDB genus	GTDB specie	Proposed genus	Proposed specie
+II	['Unk']	[31, 51, 53, 56, 58, 72, 77, 85, 87, 89, 96, 100, 106, 123, 124, 125, 139, 146, 147, 165, 186, 197, 199, 206]	['?']	Pelagibacter_A	sp002689245	Cosmipelagibacter 	malulaniensis
+III	['4', 'Unk']	[55, 65, 157, 167, 171, 190, 192]	['?']	HIMB114	sp000163555	Unk	Unk
+Ia.1.I	['8', 'Unk']	[5, 24]	['?']	Pelagibacter	ubique	Pelagibacter	ubiquis
+Ia.3.I	['Unk']	[116, 174]	['3']	Pelagibacter	sp000155895	Atlantikopelagibacter	sargasii
+Ia.3.II	['Unk']	[39, 74, 164, 201, 202, 204]	['[2, 3]']	Pelagibacter	sp000299095	Coralipelagibacter	heeiaensis
+Ia.3.III	['5']	[8, 40]	['3']	Pelagibacter	sp900177485	Littoralipelagibacter	koolauensis 
+Ia.3.IV	['Unk']	[169, 187]	['[2, 3]']	Pelagibacter	sp003279685	Proprepelagibacter	yaquinaensis, yaconaensis 
+Ia.3.V	['Unk']	[30, 33, 37, 49, 52, 59, 75, 80, 88, 94, 97, 98, 112, 129, 130, 133, 149, 153, 156, 177, 178, 193]	['[2, 3]']	Pelagibacter	sp003213615	Xanthipelagibacter	moananuiensis
+Ia.3.VI	['1', '16', 'Unk']	[0, 9, 12, 13, 14, 15, 16, 18, 19, 26, 29, 34, 36, 41, 48, 67, 76, 93, 110, 117, 118, 131, 140, 162, 166, 179, 182, 183]	['1', '[1, 2, 3]']	Pelagibacter	sp902520475	Ampluspelagibacter	kiloensis
+Ia.3.VII	['2', 'Unk']	[10, 22, 86, 113, 212]	['2', '[2, 3]']	Pelagibacter	sp902594635	Angustipelagibacter	atlanticus 
+Ia.4.II	['3', 'Unk']	[4, 23, 47, 66, 81, 83, 114, 119, 127, 128, 132, 134, 136, 144, 159, 168, 184, 205]	['3', '[2, 3]']	Pelagibacter	sp902528545	Lacunapelagibacter	akoakoaensis
+Ia.4.N1	['Unk']	[68]	['3']	Pelagibacter		Semelpelagibacter	kaneoheensis
+Ia.4.N2	['Unk']	[64, 73, 150]	['3']	Pelagibacter	sp003281725	Pantolocipelagibacter	undulans
+Ia.4.N4	['Unk']	[104, 137]	['[2, 3]']	Pelagibacter	sp902540275	Punctumpelagibacter	variabilis 
+Ia.4.N5	['Unk']	[21, 42, 54, 78, 84, 108, 160, 161, 173, 175, 176, 180, 196]	['3']	Pelagibacter	sp002101315	Tantilluspelagibacter	rubimaris
+Ia.4.N6	['Unk']	[61, 92, 138, 172]	['3']	Pelagibacter	sp902524535	Colligopelagibacter	wilhelmi
+Ia.4.N8	['13', 'Unk']	[2, 141, 195, 203, 207]	['3']	Pelagibacter	sp902524345	Unk	Unk
+Ib.1	['15', 'Unk']	[27, 46, 50, 71, 200]	['2']	Pelagibacter	sp002101295	Superopelagibacter	microceni
+Ib.1.III	['17', '6', '7', 'Unk']	[1, 3, 7, 35, 45, 69, 105, 120, 142, 155, 185, 189, 208, 209, 210, 211]	['?']	Pelagibacter	sp902616245	Copiapelagibacter	splendidus
+Ib.2.I	['10', 'Unk']	[17, 102, 170, 194]	['2']	Pelagibacter	sp902555585	Stellipelagibacter	aequor, aequorensis 
+Ib.2.N7	['12', 'Unk']	[6, 82, 151]	['?']	Pelagibacter	sp902551985	Unk	Unk
+Ib.4.1	['Unk']	[99]	['2']	Pelagibacter	sp003210095	Unk	Unk
+Ib.4.N8	['11', '14', 'Unk']	[20, 62, 101, 111]	['2']	Pelagibacter	sp902622545	Mediuspelagibacter	bermudensis
+Ib.4.N9	['Unk']	[25, 28, 107, 181]	['2']	Pelagibacter	sp003213015	Amplipelagibacter	globalis 
+Ib.N10	['9']	[11, 79]	['?']	Pelagibacter	sp902560075	Fususpelagibacter	tranquillus
+Ib.N11	['Unk']	[95, 135, 188]	['2']	Pelagibacter	sp902536765	Rubeuspelagibacter	caeruleus
+Ic	['Unk']	[154]	['2']	AAA240-E13	sp000504625	Mesopelagibacter	carboxydoxivorans
