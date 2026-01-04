@@ -3,8 +3,8 @@ The following scripts are adapted to a specific workflow. They may need to be ad
 Requirements are specified in each script's code. 
 
 Following workflow order:
-- 1) `genomes_download.py`: retrieves and filters SAR11 genomes according to completeness and contamination thresholds.
-- 2) `fastANI`
+  1) `genomes_download.py`: retrieves and filters SAR11 genomes according to completeness and contamination thresholds.
+  2) `fastANI`
   3) `ANI_grouping.py`: clusters genomes based on ANI.
   4) `ANI_byClade.ipynb`: computes inter-clade and intra-clade ANI, and performs visual representations.
   5) `GTDB_processer.py`: retrieves GTDB classifications for each genome.
