@@ -1,8 +1,8 @@
 # What does each script do?
-The following scripts are adapted to a specific workflow. They may need to be adapted for related purposes.
-
+The following scripts are adapted to a specific workflow. They may need to be adapted for other purposes.
 Requirements are specified in each script's code. 
 
+Following workflow order:
 - 1) `genomes_download.py`: retrieves and filters SAR11 genomes according to completeness and contamination thresholds.
 - 2) `fastANI`
   3) `ANI_grouping.py`: clusters genomes based on ANI.
