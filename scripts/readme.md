@@ -1,4 +1,4 @@
-# What does each script perform?
+# What does each script do?
 The following scripts are adapted to a specific workflow. They may need to be adapted for related purposes.
 
 Requirements are specified in each script's code. 
