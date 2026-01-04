@@ -1,0 +1,416 @@
+{
+    "HTCC7211_Ia.3.I": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp000155895"
+    },
+    "HTCC1062_Ia.1.I": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter ubique"
+    },
+    "LSUCC0530_III": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Fonsibacter",
+        "s": "s__Fonsibacter ubiquis"
+    },
+    "AG-426-E17_Ib.4.1": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp003210095"
+    },
+    "AG-893-F11_Ia.4.N8": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902621345"
+    },
+    "FZCC0015_Ia.3.V": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp007833635"
+    },
+    "HIMB1409_Ia.3.V": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1412_Ia.3.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1413_Ia.3.V": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter ubique_O"
+    },
+    "HIMB1420_Ia.3.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1436_Ia.4.N5": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902577125"
+    },
+    "HIMB1491_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1493_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1517_III": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__HIMB114",
+        "s": "s__"
+    },
+    "HIMB1518_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1520_Ia.3.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp000299095"
+    },
+    "HIMB1521_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1526_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1542_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1552_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1564_Ia.3.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1573_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1593_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1611_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1636_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1641_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1685_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1702_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1709_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB1710_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1723_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1746_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1758_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1765_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB1770_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB2104_nan": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520215"
+    },
+    "HIMB2187_Ia.4.N5": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902554195"
+    },
+    "HIMB2200_Ia.4.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902541515"
+    },
+    "HIMB2211_Ia.3.VI": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902520475"
+    },
+    "HIMB2226_Ia.4.N5": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__"
+    },
+    "HIMB2305_Ib.1": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp902614125"
+    },
+    "HIMB5_Ia.3.II": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp000299095"
+    },
+    "HTCC1013_Ia.1.I": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter ubique"
+    },
+    "HTCC1040_Ia.1.I": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter ubique"
+    },
+    "RS39_Ia.4.N5": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp002101315"
+    },
+    "RS40_Ib.1": {
+        "d": "d__Bacteria",
+        "p": "p__Pseudomonadota",
+        "c": "c__Alphaproteobacteria",
+        "o": "o__Pelagibacterales",
+        "f": "f__Pelagibacteraceae",
+        "g": "g__Pelagibacter",
+        "s": "s__Pelagibacter sp002101295"
+    }
+}
