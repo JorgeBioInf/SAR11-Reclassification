@@ -3,15 +3,16 @@ This project leverages from the increased availability of highly-curated genomes
 
 ## What can be found here?
 _*scripts/*_ folder contains all scripts used in this project
+
 _*datasets/*_ folder contains some intermediate results and the final classification obtained
 
 ## Dependencies
 The followed workflow included the use of the following well-known programs:
-`fastANI`: 
-`prodigal`:
-`GTDB-tk`: 
-`ConSpeciFix`:
-`PopCOGenT`: 
+- `fastANI`: [fastANI GitHub](https://github.com/ParBLiSS/FastANI)
+- `prodigal`: [prodigal GitHub](https://github.com/hyattpd/Prodigal)
+- `GTDB-tk`: [GTDB-tk GitHub](https://github.com/Ecogenomics/GTDBTk)
+- `ConSpeciFix`: [ConSpeciFix GitHub](https://github.com/Bobay-Ochman/ConSpeciFix)
+- `PopCOGenT`: [PopCOGenT GitHub](https://github.com/philarevalo/PopCOGenT)
 
 
 ## References
