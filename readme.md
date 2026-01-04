@@ -2,8 +2,8 @@
 This project leverages from the increased availability of highly-curated genomes of the marine order *Pelagibacterales* to reclassify this ecologically-essential bacterial taxon using genomic-based and gene-flow criteria. 
 
 ## What can be found here?
-- `*scripts/*` folder contains all scripts used in this project
-- `*datasets/*` folder contains some intermediate results and the final classification obtained
+- `scripts/` folder contains all scripts used in this project
+- `datasets/` folder contains some intermediate results and the final classification obtained
 
 ## Dependencies
 The followed workflow included the use of the following well-known programs:
